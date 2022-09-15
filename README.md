@@ -1,7 +1,13 @@
  ### Hi there 👋
 
 ## About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> 
-<h5 align="center">I am a Full stack web developer💻. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h5 align="center">Strong in design and integration with
+intuitive problem-solving skills.
+Passionate about implementing and
+launching new projects. Looking to start
+the career as an entry-level software
+engineer with a reputed firm driven by
+technology.</h4>
 <br/>
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <br/>
