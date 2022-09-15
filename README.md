@@ -34,7 +34,6 @@ technology.</h4>
 - 🌱 I’m currently learning ...Full Stack Web Development
 - 👯 I’m looking to collaborate on ...Web Development projects
 - 🤔 I’m looking for help with ...Problem solving skills
-- 💬 Ask me about ...The Operating System,Ethical Hacking.
 - 📫 How to reach me: ...https://maheshkumar-wd.github.io
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
