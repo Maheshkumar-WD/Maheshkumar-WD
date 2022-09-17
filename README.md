@@ -20,7 +20,7 @@ technology.</h4>
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
  
-- Aside from coding, I enjoy hiking and playing Badminton.  
+
   <br/>
   <br/>
   <br/>
