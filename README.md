@@ -1,13 +1,16 @@
 ![image](https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&w=1000&q=80)
-# I'M GOLLA MAHESH KUMAR
-## About Me  
-<h5 align="center">Strong in design and integration with
+<h1 align="center">I'M GOLLA MAHESH KUMAR</h1>
+<p align="center">
+  <a href="https://github.com/Maheshkumar-WD/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
+</p>
+##  About Me  
+<h3>Strong in design and integration with
 intuitive problem-solving skills.
 Passionate about implementing and
 launching new projects. Looking to start
 the career as an entry-level software
 engineer with a reputed firm driven by
-technology.</h4>
+technology.</h3>
 <br/>
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <br/>
