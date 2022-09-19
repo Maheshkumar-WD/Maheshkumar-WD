@@ -99,10 +99,10 @@ technology.</h3>
 ### 👉 Software & Tools
  
 <p align="center">
+  <a href = ""><img width="75px" alt="vscode editer" src=""https://img.icons8.com/color/344/visual-studio--v1.png" /></a>
+    <a href="#"><img width="75px" alt="Git" src="https://img.icons8.com/color/344/git.png" /></a>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="#"><img width="75px" alt="GitHub" src="https://img.icons8.com/ios-filled/344/github.png" /></a>
 
 </p> 
 
@@ -111,7 +111,7 @@ technology.</h3>
 <p align="center">
 <img src="https://img.icons8.com/color/344/visual-studio--v1.png" />
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.icons8.com/color/344/visual-studio--v1.png)"></a>
   &emsp;
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
   &emsp;
