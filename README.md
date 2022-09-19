@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/Maheshkumar-WD/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
 </p>
-##  About Me  
+<h2> About Me </h2>
 <h3>Strong in design and integration with
 intuitive problem-solving skills.
 Passionate about implementing and
