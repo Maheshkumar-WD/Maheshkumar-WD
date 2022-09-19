@@ -41,7 +41,7 @@ technology.</h3>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
- <img style="width:100%" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
+ <img style="width:100%" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif" />
 
 
 </p>
@@ -99,7 +99,7 @@ technology.</h3>
 ### 👉 Software & Tools
  
 <p align="center">
-  <a href = ""><img width="75px" alt="vscode editer" src=""https://img.icons8.com/color/344/visual-studio--v1.png" /></a>
+  <a href = "#"><img width="75px" alt="vscode editer" src="https://img.icons8.com/color/344/visual-studio--v1.png" /></a>
     <a href="#"><img width="75px" alt="Git" src="https://img.icons8.com/color/344/git.png" /></a>
   &emsp;
     <a href="#"><img width="75px" alt="GitHub" src="https://img.icons8.com/ios-filled/344/github.png" /></a>
