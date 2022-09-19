@@ -1,6 +1,6 @@
- ### Hi there 👋
-
-## About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> 
+![image](https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&w=1000&q=80)
+# I'M GOLLA MAHESH KUMAR
+## About Me  
 <h5 align="center">Strong in design and integration with
 intuitive problem-solving skills.
 Passionate about implementing and
