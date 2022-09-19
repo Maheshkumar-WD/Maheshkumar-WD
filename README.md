@@ -137,8 +137,8 @@ technology.</h3>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
-	<a href="mailto:maheshkumar.fsd@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/mahesh-kumar-golla-91a5111a4/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:maheshkumar.fsd@gmail.com" target="_blank"><img width="75px" img src="https://img.icons8.com/color/344/gmail--v1.png"/></a>
+	<a href="https://www.linkedin.com/in/mahesh-kumar-golla-91a5111a4/" target="_blank"><img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="LinkedIn"/></a>
 	
 	
 </p>
