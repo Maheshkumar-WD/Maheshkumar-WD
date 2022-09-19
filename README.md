@@ -43,9 +43,7 @@ technology.</h3>
 
  <img style="width:100%" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
 
-<h1 align="center">Hi , I'm  Golla Mahesh Kumar<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/Maheshkumar-WD/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
+
 </p>
 <hr color="blue"/>
 
@@ -67,19 +65,19 @@ technology.</h3>
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank">   
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+   <img width="75px" alt="HTML" src="https://img.icons8.com/color/344/html-5.png">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+    <img width="75px" alt="CSS" src="https://img.icons8.com/color/344/css3.png">
   </a> 
 	&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+     <img width="75px" alt="JavaScript" src="https://img.icons8.com/color/344/javascript.png">
    </a>
 	&emsp;
 	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
-     <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
+     <img width="75px" alt="React" src="https://img.icons8.com/color/344/react-native.png">
    </a>
 </p>
 
@@ -87,35 +85,31 @@ technology.</h3>
 <p align="center" background-color="yellow"> 
   &emsp; 
   <a href="http://expressjs.com/" target="_blank"> 
-   <img alt="Express Js" src="https://img.shields.io/badge/ExpressJS%20-%23E34F26.svg?style=plastic&logo=express&logoColor=white">
+   <img width="75px" alt="Express Js" src="https://img.icons8.com/fluency/344/express-js.png">
   </a>   
 	&emsp; 
   <a href="https://www.w3schools.com/nodejs/" target="_blank"> 
-   <img alt="Node Js" src="https://img.shields.io/badge/NodeJS%20-%23E34F26.svg?style=plastic&logo=node&logoColor=white">
+   <img width="75px" alt="Node Js" src="https://img.icons8.com/fluency/344/node-js.png">
   </a>  &emsp; 
 	<a href="https://www.mongodb.com/" target="_blank"> 
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23E34F26.svg?style=plastic&logo=mongodb&logoColor=white">
+   <img width="75px" alt="MongoDB" src="https://img.icons8.com/color/344/mongodb.png">
   </a> 
 </p>
 
-<!--  ### 👉 Software & Tools
+### 👉 Software & Tools
  
 <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-</p> -->
+
+</p> 
 
 <!--  ### 👉 IDEs
  
 <p align="center">
+<img src="https://img.icons8.com/color/344/visual-studio--v1.png" />
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
