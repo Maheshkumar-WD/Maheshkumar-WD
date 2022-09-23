@@ -41,9 +41,6 @@ technology.</h3>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
- <img style="width:100%" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif" />
-
-
 </p>
 <hr color="blue"/>
 
