@@ -150,7 +150,7 @@ technology.</h3>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Maheshkumar-WD&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>
 
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshkumar-WD" alt="MAHESH KUMAR" /></p>
+<!--  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshkumar-WD" alt="MAHESH KUMAR" /></p> -->
 <br/>
  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maheshkumar-WD&show_icons=true&locale=en&layout=compact" alt="Maheshkumar" /></p>
  <br/>
