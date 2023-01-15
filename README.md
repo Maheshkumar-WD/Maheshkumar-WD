@@ -73,8 +73,12 @@ technology.</h3>
      <img width="75px" alt="JavaScript" src="https://img.icons8.com/color/344/javascript.png">
    </a>
 	&emsp;
-	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
+	<a href="https://redux.js.org/" target="_blank"> 
      <img width="75px" alt="React" src="https://img.icons8.com/color/344/react-native.png">
+	</a>
+		&emsp;
+	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
+     <img width="75px" alt="Redux" src="https://img.icons8.com/color/512/redux.png">
    </a>
 </p>
 
